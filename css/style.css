@@ -1,0 +1,36 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&family=Poppins:wght@700');
+@import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;700&display=swap');
+
+/* Fontawesome */
+@import url('https://use.fontawesome.com/releases/v5.6.3/css/all.css');
+
+/* Components Design */
+@import url("components/icons.css");
+@import url("components/footer.css");
+@import url("components/buttons.css");
+@import url("components/banner.css");
+@import url("components/cards.css");
+
+/* Utilities */
+body {
+  margin: 0;
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+h1, h2, h3, h4 {
+  font-family: 'Space Grotesk', sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* Custom design below! */
+
+.center-text {
+  text-align: center;
+  margin: auto;
+  margin-bottom: 30px;
+  font-size: 2em;
+}

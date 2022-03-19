@@ -1,0 +1,19 @@
+.fab {
+  color: #f8ebce;
+  transition: 0.3s;
+}
+
+.fab:hover {
+  color: #F0D290;
+}
+
+.list-horiz-align {
+  display: inline-block;
+  margin: 0 10px;
+  font-size: 25px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
